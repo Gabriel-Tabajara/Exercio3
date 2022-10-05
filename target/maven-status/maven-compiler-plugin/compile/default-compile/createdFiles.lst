@@ -1,0 +1,9 @@
+com\bcopstein\ctrlcorredor_v3\RegrasDeNegocios\EventosRegraNegocio.class
+com\bcopstein\ctrlcorredor_v3\CtrlcorredorV3Application.class
+com\bcopstein\ctrlcorredor_v3\Objetos\Evento.class
+com\bcopstein\ctrlcorredor_v3\Objetos\PerformanceDTO.class
+com\bcopstein\ctrlcorredor_v3\Objetos\EstatisticasDTO.class
+com\bcopstein\ctrlcorredor_v3\Endpoints\CtrlCorridasController.class
+com\bcopstein\ctrlcorredor_v3\Repository\CorredorRepository.class
+com\bcopstein\ctrlcorredor_v3\Objetos\Corredor.class
+com\bcopstein\ctrlcorredor_v3\Repository\EventoRepository.class
